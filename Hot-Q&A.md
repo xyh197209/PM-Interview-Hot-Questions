@@ -127,7 +127,7 @@
 
 **7.你最喜欢的产品是什么？你最喜欢/不喜欢它的什么功能？**
 
-[答案来自于人人都是产品经理](http://www.woshipm.com/pmd/2891945.html)
+[回答1](http://www.woshipm.com/pmd/2891945.html)
 
 
 
@@ -157,8 +157,8 @@
 >一方面是来自于公司内部，即企业战略、团队头脑风暴、产品数据分析等等。
 
 
-回答2:
-[人人都是产品经理](http://www.woshipm.com/pd/2965777.html)
+[回答2:]
+(http://www.woshipm.com/pd/2965777.html)
 
 
 <a name="Basic"></a>
